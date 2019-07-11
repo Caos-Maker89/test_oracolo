@@ -93,7 +93,7 @@ Submit Yahoo Article
     Select Blog Category
     Save Article
 
-Submit Libero Article
+Submit Libero Article     #TODO
     Click Submit An Article
     Write Article Title   Libero
     Switch Browser     cieditweb
@@ -101,7 +101,7 @@ Submit Libero Article
     Click Pubblicazione Tab
     Select Blog Category
 
-Submit Corriere Article
+Submit Corriere Article     #TODO
     Click Submit An Article
     Write Article Title   Corriere
     Switch Browser     cieditweb
